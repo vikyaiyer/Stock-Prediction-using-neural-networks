@@ -1,5 +1,5 @@
 from alpha_vantage.timeseries import TimeSeries
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import sys
 import csv
 outfile=None
