@@ -5,7 +5,7 @@ with open('data.csv') as csvfile:
     j=0
     filename=1
     for row in readCSV:
-        csvfile1 = open('file-{}.csv'.format(row[0]), 'r')#.readlines()
+        csvfile1 = open('dataRO/fileRO-{}.csv'.format(row[0]), 'r')#.readlines()
         outfilename = open('file-{}.csv'.format(filename),'a')
         for row in csvfile1:
             #print (csvfile1.name)
