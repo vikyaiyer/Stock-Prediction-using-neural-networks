@@ -1,6 +1,7 @@
 Amazon.com Inc,AMZN,Consumer Discretionary
 Best Buy Co. Inc.,BBY,Consumer Discretionary
 CBS Corp.,CBS,Consumer Discretionary
+Nike,NKE,Consumer Discretionary
 Dish Network,DISH,Consumer Discretionary
 Ford Motor,F,Consumer Discretionary
 Gap Inc.,GPS,Consumer Discretionary
@@ -24,9 +25,11 @@ Williams Cos.,WMB,ENERGY
 Schlumberger Ltd.,SLB,ENERGY
 Occidental Petroleum,OXY,ENERGY
 Marathon Oil Corp.,MRO,ENERGY
+National Oilwell Varco Inc,NOV,ENERGY
 TechnipFMC,FTI,ENERGY
 Valero Energy,VLO,ENERGY
 American Express Co,AXP,Financials
+Nasdaq Inc,NDAQ,Financials
 American International Group,AIG,Financials
 Bank of America Corp,BAC,Financials
 Block H&R,HRB,Financials
@@ -74,3 +77,4 @@ AT&T Inc,T,Materials Utilities And Telecomunication services
 CenturyLink Inc,CTL,Materials Utilities And Telecomunication services 
 Verizon Communications,VZ,Materials Utilities And Telecomunication services   
 AES Corp,AES,Materials Utilities And Telecomunication services                      
+NRG Energy,NRG,Materials Utilities And Telecomunication services
